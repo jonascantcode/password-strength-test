@@ -4,7 +4,7 @@
     $host = "localhost";
     $usernm = "root";
     $userpass = "";
-    $database = "strengthtest";
+    $database = "siphondb";
 
     #Establish connection with database
     $connect = mysqli_connect($host, $usernm, $userpass, $database);
